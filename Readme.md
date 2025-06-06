@@ -27,3 +27,8 @@ Um buzzer é ativado quando o nível ultrapassa 700 cm (7 metros), indicando sit
 
 A mensagem de alerta também é enviada pela porta serial.
 
+📎 Link para o projeto no Wokwi:
+👉 https://wokwi.com/projects/432426963832327169
+
+📹 Vídeo Demonstrativo:
+👉 [INSERIR LINK DO YOUTUBE AQUI]
