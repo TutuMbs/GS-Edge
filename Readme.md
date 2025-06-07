@@ -32,3 +32,5 @@ A mensagem de alerta também é enviada pela porta serial.
 
 📹 Vídeo Demonstrativo:
 👉 https://www.youtube.com/watch?v=vv1t6nSzWyQ
+
+Feito por : Arhtur Marcio de Barros Silva e Gabriela Abdelnor Tavares
