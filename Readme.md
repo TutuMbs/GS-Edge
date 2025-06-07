@@ -31,4 +31,4 @@ A mensagem de alerta também é enviada pela porta serial.
 👉 https://wokwi.com/projects/432426963832327169
 
 📹 Vídeo Demonstrativo:
-👉 [INSERIR LINK DO YOUTUBE AQUI]
+👉 https://www.youtube.com/watch?v=vv1t6nSzWyQ
